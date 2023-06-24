@@ -1,0 +1,10 @@
+Movie ID,Title,Genere,Tickets,Price,Start Time,Run time
+M001,Batman Begins,Superhero,10,25,8:00,2.5
+M002,Archer,Action,5,25,9:00,3
+M003,Avatar,Adventure,10,25,10:00,3.5
+M004,Tenet,Action,19,25,0:00,2.5
+M005,Man of steel,Superhero,19,25,0:00,2
+M006,Drive,Action,9,25,12:00,1.75
+M007,Nightcrawler,Adventure,12,25,0:00,2.5
+M008,Blade Runner 2049,Action,14,25,11:00,3.5
+M009,Joker,Superhero,12,25,0:00,2.5
